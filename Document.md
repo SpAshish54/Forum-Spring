@@ -140,7 +140,8 @@ Ensure that these dependencies are properly configured in your Spring applicatio
 
 # Sequence Diagram
 
-![](Aspose.Words.9b2ad661-1623-4ce0-a722-66cb09bd9c01.002.png)
+![image](https://github.com/SpAshish54/Forum-Spring/assets/102243591/0a76e86b-aaca-4933-a814-2ae545723a18)
+
 
 
 
