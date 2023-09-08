@@ -2,7 +2,7 @@
 
 
 
-\# Introduction
+# Introduction
 
 
 
@@ -10,7 +10,7 @@ This documentation outlines a new feature in the `com.prodapt.learningspring.ser
 
 
 
-\# Feature Overview
+# Feature Overview
 
 
 
@@ -30,7 +30,7 @@ The Sorting and Filtering Posts feature allows users to manipulate a list of pos
 
 
 
-\# Class and Package Structure
+# Class and Package Structure
 
 
 
@@ -42,11 +42,11 @@ The feature is implemented in the following Java classes and packages:
 
 
 
-\# Sorting Posts
+# Sorting Posts
 
 
 
-\# Sorting by Likes
+# Sorting by Likes
 
 
 
@@ -58,7 +58,7 @@ This method sorts the given list of posts in descending order of the number of l
 
 
 
-\# Sorting by Timestamp
+# Sorting by Timestamp
 
 
 
@@ -70,11 +70,11 @@ This method sorts the given list of posts based on the timestamp of the latest c
 
 
 
-\# Filtering Posts
+# Filtering Posts
 
 
 
-\# Filter by Minimum Likes
+# Filter by Minimum Likes
 
 
 
@@ -86,7 +86,7 @@ This method filters the given list of posts to include only those with a number 
 
 
 
-\# Filter by Minimum Comments
+# Filter by Minimum Comments
 
 
 
@@ -98,7 +98,7 @@ This method filters the given list of posts to include only those with a number 
 
 
 
-\# Filter by Date Range
+# Filter by Date Range
 
 
 
@@ -110,7 +110,7 @@ This method filters the given list of posts to include only those created within
 
 
 
-\# Usage
+# Usage
 
 
 
@@ -118,7 +118,7 @@ Developers can utilize these methods to provide users with the ability to custom
 
 
 
-\# Dependencies
+# Dependencies
 
 
 
@@ -133,17 +133,17 @@ The `SortingPosts` class depends on two repositories:
 Ensure that these dependencies are properly configured in your Spring application context.
 
 
-\# Flow Chart
+# Flow Chart
 
 ![](Aspose.Words.9b2ad661-1623-4ce0-a722-66cb09bd9c01.001.png)
 
-\# Sequence Diagram
+# Sequence Diagram
 
 ![](Aspose.Words.9b2ad661-1623-4ce0-a722-66cb09bd9c01.002.png)
 
 
 
-\# Conclusion
+# Conclusion
 
 
 
