@@ -135,7 +135,8 @@ Ensure that these dependencies are properly configured in your Spring applicatio
 
 # Flow Chart
 
-(Aspose.Words.9b2ad661-1623-4ce0-a722-66cb09bd9c01.001.png)
+![image](https://github.com/SpAshish54/Forum-Spring/assets/102243591/a1440fea-a438-49d8-b8d9-94116c0cd4ea)
+
 
 # Sequence Diagram
 
