@@ -46,7 +46,7 @@ The feature is implemented in the following Java classes and packages:
 
 
 
-# Sorting by Likes
+## Sorting by Likes
 
 
 
@@ -58,7 +58,7 @@ This method sorts the given list of posts in descending order of the number of l
 
 
 
-# Sorting by Timestamp
+## Sorting by Timestamp
 
 
 
@@ -74,7 +74,7 @@ This method sorts the given list of posts based on the timestamp of the latest c
 
 
 
-# Filter by Minimum Likes
+## Filter by Minimum Likes
 
 
 
@@ -86,7 +86,7 @@ This method filters the given list of posts to include only those with a number 
 
 
 
-# Filter by Minimum Comments
+## Filter by Minimum Comments
 
 
 
@@ -98,7 +98,7 @@ This method filters the given list of posts to include only those with a number 
 
 
 
-# Filter by Date Range
+## Filter by Date Range
 
 
 
