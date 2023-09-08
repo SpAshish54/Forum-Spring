@@ -135,7 +135,7 @@ Ensure that these dependencies are properly configured in your Spring applicatio
 
 # Flow Chart
 
-[](Aspose.Words.9b2ad661-1623-4ce0-a722-66cb09bd9c01.001.png)
+(Aspose.Words.9b2ad661-1623-4ce0-a722-66cb09bd9c01.001.png)
 
 # Sequence Diagram
 
