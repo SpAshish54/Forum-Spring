@@ -1,4 +1,4 @@
-﻿\# Feature Documentation: Sorting and Filtering Posts
+﻿\### Feature Documentation: Sorting and Filtering Posts
 
 
 
